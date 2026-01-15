@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Divyansh 👋</h1>
 
 <p align="center">
-  🚀 <b>Beginner Programmer</b> • 💻 <b>C / C++ / Python</b> • 🛡️ <b>Cybersecurity Enthusiast</b>
+  🚀 <b>Beginner Programmer</b> • 💻 <b>Software Development</b> • 🛡️ <b>Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
@@ -67,6 +67,16 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - Cybersecurity & ethical hacking  
 - Linux tools and automation  
 - Low-level / systems programming  
+
+---
+
+### 🛠️ Tech and Tools I Use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,c,cpp,react,html,css,git,vercel,kali,vscode,windows,md" />
+  </a>
+</p>
 
 ---
 
