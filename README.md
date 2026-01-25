@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://divyanshakya966.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a><!--
-  --><a href="https://github.com/divyanshakya966">
-    <img src="https://img.shields.io/github/followers/divyanshakya966?label=Follow&style=social" alt="GitHub Follow" />
-  </a><!--
-  --><a href="https://linkedin.com/in/divyansh-shakya-202915378">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/divyanshakya966">
+    <img src="https://img.shields.io/github/followers/divyanshakya966?label=Follow&style=for-the-badge" alt="GitHub Follow" />
+  </a>
+  <a href="https://linkedin.com/in/divyansh-shakya-202915378">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
