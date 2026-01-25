@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://divyanshakya966.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/divyanshakya966">
     <img src="https://img.shields.io/github/followers/divyanshakya966?label=Follow&style=social" alt="GitHub Follow" />
   </a>
