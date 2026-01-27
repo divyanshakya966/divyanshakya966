@@ -33,7 +33,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ### 🛠️ Tech Stack
 
 **Languages**
-- 💡 C • C++ • Python • HTML
+- 💡 C • C++ • Python • HTML • JavaScript • Java
 
 **Tools & Platforms**
 - 🐧 Linux (terminal lover)
@@ -57,6 +57,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - 📚 Strengthening **C/C++** and **Python** for systems and security-focused development
 - 🧪 Experimenting with **Linux environments**, shell scripting, and basic tooling
 - 🧭 Exploring beginner-friendly paths in **OS development** and **low-level programming**
+- 💻 Building **softwares** and **websites** to enhance my coding skills
 - 🤝 Looking for **collaborative projects** in cybersecurity and software development
 
 ---
@@ -70,6 +71,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - Cybersecurity & ethical hacking  
 - Linux tools and automation  
 - Low-level / systems programming  
+- Software / Web development projects  
 
 ---
 
@@ -77,7 +79,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c,cpp,react,html,css,git,vercel,kali,vscode,windows,md" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,html,css,git,vercel,kali,vscode,windows,md" />
   </a>
 </p>
 
