@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Interested in **OS development**, **low-level software**, **Linux tools**, and **ethical hacking**
+- 🧠 Interested in **OS/Software/Web development**, **low-level software**, **Linux tools**, and **ethical hacking**
 - 🔐 Passionate about **cybersecurity**, **ethical hacking**, and **defensive tooling**
 - 🐧 Enjoy working in **Linux environments**, setting up **virtual labs**, and experimenting with **automation**
 - 🧪 I learn best by **building things**, breaking them, and then securing them again
@@ -48,6 +48,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - 🕵️ Ethical hacking fundamentals and security mindsets
 - ⚙️ Exploring **Linux-based security tools** and **automation scripts**
 - 🧱 Building small utilities that support **recon**, **monitoring**, and **system hardening**
+- 💻 Building **softwares** and **websites** and making them secure
 - 🧠 Curious about **CTFs**, **red teaming basics**, and **defensive strategies**
 
 ---
@@ -71,7 +72,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - Cybersecurity & ethical hacking  
 - Linux tools and automation  
 - Low-level / systems programming  
-- Software / Web development projects  
+- Software / web development projects  
 
 ---
 
