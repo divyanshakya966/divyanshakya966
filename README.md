@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Divyansh 👋</h1>
 
 <p align="center">
-  🚀 <b>Beginner Programmer</b> • 💻 <b>Software Development</b> • 🛡️ <b>Cybersecurity Enthusiast</b>
+  🚀 <b>Beginner Programmer</b> • 💻 <b>Software/Web Development</b> • 🛡️ <b>Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
