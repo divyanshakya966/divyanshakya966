@@ -86,7 +86,12 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-⭐ If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
+<p align="center">
+<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
+</p>
 
 ---
 
+⭐ If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
+
+---
