@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/divyanshakya966">
-    <img src="https://img.shields.io/github/followers/divyanshakya966?label=Follow&style=social" alt="GitHub Follow" />
+    <img src="https://komarev.com/ghpvc/?username=divyanshakya966&color=red" alt="Profile Views" />
   </a>
   <a href="https://linkedin.com/in/divyansh-shakya-202915378">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -87,3 +87,6 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 ⭐ If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
+
+---
+
