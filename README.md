@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Divyansh 👋</h1>
-
-<p align="center">
-  🚀 <b>Beginner Programmer</b> • 💻 <b>Software/Web Development</b> • 🛡️ <b>Cybersecurity Enthusiast</b>
-</p>
+<h1 align="center"><img src="./github-header-banner.png" alt="Banner"></img></h1>
 
 <p align="center">
   <a href="https://divyanshakya966.github.io">
