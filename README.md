@@ -86,12 +86,12 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,c,cpp,react,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,docker,discord,git,mongodb,obsidian,vite" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vercel,linux,kali,vscode,windows,md,docker,discord" />
+    <img src="https://skillicons.dev/icons?i=java,react,nodejs,tailwind,mysql,md,py,bash,github,githubactions,linux,kali,vscode" />
   </a>
 </p>
 
