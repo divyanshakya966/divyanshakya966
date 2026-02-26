@@ -17,6 +17,33 @@
 
 ---
 
+<h2 align="center">
+🛠️ Tech and Tools I Use
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,docker,discord,git,mongodb,obsidian,vite" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,nodejs,tailwind,mysql,md,py,bash,github,githubactions,linux,kali,vscode" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">
+📊 GitHub Statistics
+</h2>
+
+<p align="center">
+<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - Interested in **OS/Software/Web development**, **low-level software**, **Linux tools**, and **ethical hacking**
@@ -79,27 +106,6 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - Linux tools and automation  
 - Low-level / systems programming  
 - Software / web development projects  
-
----
-
-### 🛠️ Tech and Tools I Use
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,docker,discord,git,mongodb,obsidian,vite" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,nodejs,tailwind,mysql,md,py,bash,github,githubactions,linux,kali,vscode" />
-  </a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
-</p>
 
 ---
 
