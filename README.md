@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Divyansh;Software/Web+Developer;Cybersecurity+Enthusiast;Ethical+Hacker" />
+<img src="https://readme-typing-svg.demolab.com?font=source+code+pro&size=40&pause=1000&color=3494E0&center=true&vCenter=true&width=600&lines=Hey!+I'm+Divyansh;Software/Web+Developer;Cybersecurity+Enthusiast;Ethical+Hacker" />
 </h1>
 
 <p align="center">
@@ -15,6 +15,16 @@
   <a href="https://x.com/divyanshakya966">
     <img src="https://img.shields.io/badge/Twitter-Follow-darkgrey?style=flat&logo=X" alt="Twitter" />
   </a>
+</p>
+
+---
+
+<h2 align="center">
+📊 GitHub Statistics
+</h2>
+
+<p align="center">
+<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
 </p>
 
 ---
@@ -37,16 +47,8 @@
 ---
 
 <h2 align="center">
-📊 GitHub Statistics
+👨‍💻 About Me
 </h2>
-
-<p align="center">
-<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
-</p>
-
----
-
-### 👨‍💻 About Me
 
 - Interested in **OS/Software/Web development**, **low-level software**, **Linux tools**, and **ethical hacking**
 - Passionate about **cybersecurity**, **ethical hacking**, and **defensive tooling**
@@ -58,7 +60,9 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">
+🛠️ Tech Stack
+</h2>
 
 **Languages**
 - C • C++ • Python • HTML • JavaScript • Java
@@ -76,7 +80,9 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-### 🔐 Cybersecurity & Interests
+<h2 align="center">
+🔐 Cybersecurity & Interests
+</h2>
 
 - Ethical hacking fundamentals and security mindsets
 - Exploring **Linux-based security tools** and **automation scripts**
@@ -86,7 +92,9 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-### 🌱 What I’m Currently Doing
+<h2 align="center">
+🌱 What I’m Currently Doing
+</h2>
 
 - Strengthening **C/C++** and **Python** for systems and security-focused development
 - Experimenting with **Linux environments**, shell scripting, and basic tooling
@@ -96,7 +104,9 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-### 📫 Connect With Me
+<h2 align="center">
+📫 Connect With Me
+</h2>
 
 - GitHub: [github.com/divyanshakya966](https://github.com/divyanshakya966)  
 - LinkedIn: [linkedin.com/in/divyansh-shakya-202915378](https://linkedin.com/in/divyansh-shakya-202915378)
@@ -112,5 +122,3 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 ⭐ If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
-
----
