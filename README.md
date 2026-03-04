@@ -47,6 +47,21 @@
 ---
 
 <h2 align="center">
+🛠️ Tech Stack
+</h2>
+
+| Category | Skills & Tools |
+|------------|------------------|
+| **Languages** | C, C++, Python, HTML, JavaScript |
+| **Frameworks & Libraries** | Flask, React, Node.js, Tailwind CSS |
+| **Tools & Platforms** | Linux, Git & GitHub, GCC, G++, AI-based prompting & productivity tools |
+| **Security Tools** | Kali Linux, Metasploit, Burp Suite, John the Ripper, Wireshark, Tcpdump, Nmap, Gobuster, Hydra, CAPA, CyberChef, REMnux, FlareVM |
+| **Networking & Protocols** | TCP/IP, DNS, HTTP/HTTPS, OSI Model, Firewalls, Packet Analysis |
+| **Cybersecurity Domains/Skills** | Web Application Security, Network Security, CTF Player |
+
+---
+
+<h2 align="center">
 👨‍💻 About Me
 </h2>
 
@@ -57,26 +72,6 @@
 
 I’m on a journey to combine **problem-solving**, **systems-level thinking**, and **security awareness** to build tools that make systems more secure and developers more productive.  
 Always open to learning, collaborating, and contributing to real-world projects.
-
----
-
-<h2 align="center">
-🛠️ Tech Stack
-</h2>
-
-**Languages**
-- C • C++ • Python • HTML • JavaScript • Java
-
-**Security Tools**
-- Kali Linux • Metasploit • Burp Suite • John
-- Wireshark • Tcpdump • Nmap • Gobuster
-- Hydra • CAPA • CyberChef • REMnux • FlareVM
-
-**Tools & Platforms**
-- Linux (terminal lover)
-- Git & GitHub
-- GCC, G++
-- AI-based prompting & productivity tools
 
 ---
 
