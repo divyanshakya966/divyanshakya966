@@ -30,7 +30,7 @@
 ---
 
 <h2 align="center">
-🛠️ Tech and Tools I Use
+🛠️ Tech Stack and Tools
 </h2>
 
 <p align="center">
@@ -43,12 +43,6 @@
     <img src="https://skillicons.dev/icons?i=java,react,nodejs,tailwind,mysql,md,py,bash,github,githubactions,linux,kali,vscode" />
   </a>
 </p>
-
----
-
-<h2 align="center">
-🛠️ Tech Stack
-</h2>
 
 | Category | Skills & Tools |
 |------------|------------------|
