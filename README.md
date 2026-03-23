@@ -85,9 +85,9 @@ Always open to learning, collaborating, and contributing to real-world projects.
 🌱 What I’m Currently Doing
 </h2>
 
-- Strengthening **C/C++** and **Python** for systems and security-focused development
+- Strengthening **C/C++**, **Python** and **TypeScript** for systems and security-focused development
 - Experimenting with **Linux environments**, shell scripting, and basic tooling
-- Exploring beginner-friendly paths in **OS development** and **low-level programming**
+- Exploring DevSecOps with **Pipeline Security** and **Secure Web Development**
 - Building **softwares** and **websites** to enhance my coding skills
 - Looking for **collaborative projects** in cybersecurity and software development
 
@@ -103,7 +103,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - Twitter: [x.com/divyanshakya966](https://x.com/divyanshakya966)
 
 💬 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
-- Cybersecurity & ethical hacking  
+- DevSecOps & ethical hacking  
 - Linux tools and automation  
 - Low-level / systems programming  
 - Software / web development projects  
