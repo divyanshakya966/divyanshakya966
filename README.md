@@ -70,18 +70,6 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-🔐 Cybersecurity & Interests
-</h2>
-
-- Ethical hacking fundamentals and security mindsets
-- Exploring **Linux-based security tools** and **automation scripts**
-- Building small utilities that support **recon**, **monitoring**, and **system hardening**
-- Building **softwares** and **websites** and making them secure
-- Curious about **CTFs**, **red teaming basics**, and **defensive strategies**
-
----
-
-<h2 align="center">
 🌱 What I’m Currently Doing
 </h2>
 
