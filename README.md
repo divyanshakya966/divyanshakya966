@@ -40,7 +40,7 @@ LeetCode Statistics
 </h2>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/divyanshakya966?theme=dark&font=Big%20Shoulders%20Stencil%20Text&ext=heatmap" alt="LeetCode Statistics" />
+<img src="https://leetcard.jacoblin.cool/divyanshakya966?theme=transparent&border=0&radius=18&font=JetBrains_Mono&ext=heatmap" alt="LeetCode Statistics" />
 </p>
 
 ---
