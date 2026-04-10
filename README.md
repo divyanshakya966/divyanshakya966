@@ -77,7 +77,6 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-<<<<<<< HEAD
 Cybersecurity & Interests
 </h2>
 
@@ -91,9 +90,6 @@ Cybersecurity & Interests
 
 <h2 align="center">
 What I’m Currently Doing
-=======
-🌱 What I’m Currently Doing
->>>>>>> cc69b7ca472583a749d077159baba50b7d517fae
 </h2>
 
 - Strengthening **C/C++**, **Python** and **TypeScript** for systems and security-focused development
