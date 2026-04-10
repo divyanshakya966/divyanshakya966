@@ -1,26 +1,32 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=source+code+pro&size=40&pause=1000&color=3494E0&center=true&vCenter=true&width=600&lines=Hey!+I'm+Divyansh;Software/Web+Developer;Cybersecurity+Enthusiast;Ethical+Hacker" />
+<img src="https://readme-typing-svg.demolab.com?font=source+code+pro&size=40&pause=1000&color=3494E0&center=true&vCenter=true&width=600&lines=Hey!+I'm+Divyansh;Aspiring+DevSecOps+Engineer;Software/Web+Developer;Cybersecurity+Enthusiast;Ethical+Hacker" />
 </h1>
 
 <p align="center">
+  <a href="https://github.com/divyanshakya966">
+    <img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&logo=github" alt="GitHub" />
+  </a>
   <a href="https://divyanshakya966.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/divyansh-shakya-202915378">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://tryhackme.com/p/divyanshakya966">
-    <img src="https://img.shields.io/badge/TryHackMe-Follow-red?style=flat&logo=TryHackMe" alt="TryHackMe" />
+  <a href="https://hashnode.com/@divyanshakya966">
+    <img src="https://img.shields.io/badge/Hashnode-Follow-royalblue?style=flat&logo=Hashnode" alt="Hashnode" />
   </a>
-  <a href="https://x.com/divyanshakya966">
-    <img src="https://img.shields.io/badge/Twitter-Follow-darkgrey?style=flat&logo=X" alt="Twitter" />
+  <a href="https://tryhackme.com/p/divyanshakya966">
+    <img src="https://img.shields.io/badge/TryHackMe-Follow-crimson?style=flat&logo=TryHackMe" alt="TryHackMe" />
+  </a>
+  <a href="https://leetcode.com/u/XB72zZKcC1">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&logo=LeetCode" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
 <h2 align="center">
-📊 GitHub Statistics
+GitHub Statistics
 </h2>
 
 <p align="center">
@@ -30,7 +36,7 @@
 ---
 
 <h2 align="center">
-🛠️ Tech Stack and Tools
+Tech Stack and Tools
 </h2>
 
 <p align="center">
@@ -48,18 +54,19 @@
 |------------|------------------|
 | **Languages** | C, C++, Python, HTML, JavaScript |
 | **Frameworks & Libraries** | Flask, React, Node.js, Tailwind CSS |
-| **Tools & Platforms** | Linux, Git & GitHub, GCC, G++, AI-based prompting & productivity tools |
-| **Security Tools** | Kali Linux, Metasploit, Burp Suite, John the Ripper, Wireshark, Tcpdump, Nmap, Gobuster, Hydra, CAPA, CyberChef, REMnux, FlareVM |
+| **Tools & Platforms** | VirtualBox, Linux, Git & GitHub, GCC, G++, AI-based prompting & productivity tools |
+| **DevSecOps & Automation** | AWS Console, IAM basics, Docker, K8s, Terraform, Jenkins, GitHub Actions, CI/CD pipelines, Infrastructure as Code, Obsidian for documentation |
+| **Security Tools** | OWASP ZAP, Kali Linux, Metasploit, Burp Suite, John the Ripper, Wireshark, Tcpdump, Nmap, Gobuster, Hydra, CAPA, CyberChef, REMnux, FlareVM |
 | **Networking & Protocols** | TCP/IP, DNS, HTTP/HTTPS, OSI Model, Firewalls, Packet Analysis |
 | **Cybersecurity Domains/Skills** | Web Application Security, Network Security, CTF Player |
 
 ---
 
 <h2 align="center">
-👨‍💻 About Me
+About Me
 </h2>
 
-- Interested in **OS/Software/Web development**, **low-level software**, **Linux tools**, and **ethical hacking**
+- Interested in **Software/Web development**, **Cloud technologies**, **Linux tools**, and **ethical hacking**
 - Passionate about **cybersecurity**, **ethical hacking**, and **defensive tooling**
 - Enjoy working in **Linux environments**, setting up **virtual labs**, and experimenting with **automation**
 - I learn best by **building things**, breaking them, and then securing them again
@@ -70,7 +77,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-🔐 Cybersecurity & Interests
+Cybersecurity & Interests
 </h2>
 
 - Ethical hacking fundamentals and security mindsets
@@ -82,7 +89,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-🌱 What I’m Currently Doing
+What I’m Currently Doing
 </h2>
 
 - Strengthening **C/C++**, **Python** and **TypeScript** for systems and security-focused development
@@ -94,15 +101,16 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-📫 Connect With Me
+Connect With Me
 </h2>
 
 - GitHub: [github.com/divyanshakya966](https://github.com/divyanshakya966)  
 - LinkedIn: [linkedin.com/in/divyansh-shakya-202915378](https://linkedin.com/in/divyansh-shakya-202915378)
 - TryHackMe: [tryhackme.com/p/divyanshakya966](https://tryhackme.com/p/divyanshakya966)
 - Twitter: [x.com/divyanshakya966](https://x.com/divyanshakya966)
+- Hashnode: [hashnode.com/@divyanshakya966](https://hashnode.com/@divyanshakya966)
 
-💬 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
+Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
 - DevSecOps & ethical hacking  
 - Linux tools and automation  
 - Low-level / systems programming  
@@ -110,4 +118,4 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 ---
 
-⭐ If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
+If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
