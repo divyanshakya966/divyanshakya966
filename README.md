@@ -18,7 +18,7 @@
   <a href="https://tryhackme.com/p/divyanshakya966">
     <img src="https://img.shields.io/badge/TryHackMe-Follow-crimson?style=flat&logo=TryHackMe" alt="TryHackMe" />
   </a>
-  <a href="https://leetcode.com/u/XB72zZKcC1">
+  <a href="https://leetcode.com/u/divyanshakya966">
     <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&logo=LeetCode" alt="LeetCode" />
   </a>
 </p>
@@ -36,19 +36,18 @@ GitHub Statistics
 ---
 
 <h2 align="center">
-Tech Stack and Tools
+LeetCode Statistics
 </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,docker,discord,git,mongodb,obsidian,vite" />
-  </a>
+<img src="https://leetcard.jacoblin.cool/divyanshakya966?theme=dark&font=Big%20Shoulders%20Stencil%20Text&ext=heatmap" alt="LeetCode Statistics" />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,nodejs,tailwind,mysql,md,py,bash,github,githubactions,linux,kali,vscode" />
-  </a>
-</p>
+
+---
+
+<h2 align="center">
+Tech Stack and Tools
+</h2>
 
 | Category | Skills & Tools |
 |------------|------------------|
