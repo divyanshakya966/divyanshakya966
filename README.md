@@ -40,7 +40,7 @@ LeetCode Statistics
 </h2>
 
 <p align="center">
-<img src="https://leetcode.leetcode-stats.workers.dev/divyanshakya966?theme=transparent&extension=activity" alt="LeetCode Statistics" />
+<img src="https://leetcode.leetcode-stats.workers.dev/divyanshakya966?theme=transparent" alt="LeetCode Statistics" />
 </p>
 
 ---
