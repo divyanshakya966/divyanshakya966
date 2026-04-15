@@ -9,7 +9,7 @@
   <a href="https://divyanshakya966.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/divyansh-shakya-202915378">
+  <a href="https://linkedin.com/in/divyanshakya966">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=Linkedin" alt="LinkedIn" />
   </a>
   <a href="https://hashnode.com/@divyanshakya966">
@@ -103,10 +103,9 @@ What I’m Currently Doing
 Connect With Me
 </h2>
 
-- GitHub: [github.com/divyanshakya966](https://github.com/divyanshakya966)  
-- LinkedIn: [linkedin.com/in/divyansh-shakya-202915378](https://linkedin.com/in/divyansh-shakya-202915378)
+- Portfolio: [divyanshakya966.github.io](https://divyanshakya966.github.io)
+- LinkedIn: [linkedin.com/in/divyanshakya966](https://linkedin.com/in/divyanshakya966)
 - TryHackMe: [tryhackme.com/p/divyanshakya966](https://tryhackme.com/p/divyanshakya966)
-- Twitter: [x.com/divyanshakya966](https://x.com/divyanshakya966)
 - Hashnode: [hashnode.com/@divyanshakya966](https://hashnode.com/@divyanshakya966)
 
 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
