@@ -30,7 +30,7 @@ GitHub Statistics
 </h2>
 
 <p align="center">
-<img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages" />
+<img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats" /> <img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/languages.svg" alt="Languages" />
 </p>
 
 ---
