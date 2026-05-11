@@ -76,37 +76,8 @@ Always open to learning, collaborating, and contributing to real-world projects.
 ---
 
 <h2 align="center">
-Cybersecurity & Interests
-</h2>
-
-- Ethical hacking fundamentals and security mindsets
-- Exploring **Linux-based security tools** and **automation scripts**
-- Building small utilities that support **recon**, **monitoring**, and **system hardening**
-- Building **softwares** and **websites** and making them secure
-- Curious about **CTFs**, **red teaming basics**, and **defensive strategies**
-
----
-
-<h2 align="center">
-What I’m Currently Doing
-</h2>
-
-- Strengthening **C/C++**, **Python** and **TypeScript** for systems and security-focused development
-- Experimenting with **Linux environments**, shell scripting, and basic tooling
-- Exploring DevSecOps with **Pipeline Security** and **Secure Web Development**
-- Building **softwares** and **websites** to enhance my coding skills
-- Looking for **collaborative projects** in cybersecurity and software development
-
----
-
-<h2 align="center">
 Connect With Me
 </h2>
-
-- Portfolio: [divyanshakya966.github.io](https://divyanshakya966.github.io)
-- LinkedIn: [linkedin.com/in/divyanshakya966](https://linkedin.com/in/divyanshakya966)
-- TryHackMe: [tryhackme.com/p/divyanshakya966](https://tryhackme.com/p/divyanshakya966)
-- Hashnode: [hashnode.com/@divyanshakya966](https://hashnode.com/@divyanshakya966)
 
 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
 - DevSecOps & ethical hacking  
