@@ -65,8 +65,8 @@ Tech Stack and Tools
 About Me
 </h2>
 
-- Interested in **Software/Web development**, **Cloud technologies**, **Linux tools**, and **ethical hacking**
-- Passionate about **cybersecurity**, **ethical hacking**, and **defensive tooling**
+- Interested in **Software/Web development**, **Cloud technologies**, **AI Security**, **Linux tools**, and **ethical hacking**
+- Passionate about **cybersecurity**, **DevSecOps**, and **Software Development**
 - Enjoy working in **Linux environments**, setting up **virtual labs**, and experimenting with **automation**
 - I learn best by **building things**, breaking them, and then securing them again
 
@@ -82,7 +82,7 @@ Connect With Me
 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
 - DevSecOps & ethical hacking  
 - Linux tools and automation  
-- Low-level / systems programming  
+- AI and Cloud Security
 - Software / web development projects  
 
 ---
