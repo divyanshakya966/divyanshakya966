@@ -36,16 +36,6 @@ GitHub Statistics
 ---
 
 <h2 align="center">
-LeetCode Statistics
-</h2>
-
-<p align="center">
-<img src="https://leetcode.leetcode-stats.workers.dev/divyanshakya966?theme=transparent" alt="LeetCode Statistics" />
-</p>
-
----
-
-<h2 align="center">
 Tech Stack and Tools
 </h2>
 
