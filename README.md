@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&amp;size=40&amp;pause=1000&amp;color=3494E0&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey!+I'm+Divyansh;Cybersecurity+Trainee;GSSoC%2726+Contributor;Aspiring+Security+Engineer;DevSecOps+%26+Cloud+Security"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&amp;size=40&amp;pause=1000&amp;color=3494E0&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey!+I'm+Divyansh;Cybersecurity+Trainee;Aspiring+Security+Engineer;DevSecOps+%26+Cloud+Security"></h1>
+
 <p align="center">
 <a href="https://github.com/divyanshakya966"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&amp;logo=github" alt="GitHub"></a>
 <a href="https://divyanshakya966.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a>
@@ -11,6 +12,7 @@
 - - -
 
 <h2 align="center">GitHub Statistics</h2>
+
 <p align="center">
 <img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats">
 <img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/languages.svg" alt="Languages">
@@ -46,6 +48,7 @@ Always open to learning, collaborating, and contributing to real-world projects.
 - - -
 
 <h2 align="center">Connect With Me</h2>
+
 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
 
 * DevSecOps & ethical hacking
