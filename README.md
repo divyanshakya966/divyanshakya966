@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&amp;size=40&amp;pause=1000&amp;color=3494E0&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey!+I'm+Divyansh;Cybersecurity+Trainee;Aspiring+Security+Engineer;DevSecOps+%26+Cloud+Security"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=source+code+pro&amp;size=40&amp;pause=1000&amp;color=3494E0&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey!+I'm+Divyansh;Cybersecurity+Trainee;Aspiring+Security+Engineer;AI+%26+Cloud+Security"></h1>
 
 <p align="center">
 <a href="https://github.com/divyanshakya966"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&amp;logo=github" alt="GitHub"></a>
