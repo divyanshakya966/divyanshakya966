@@ -4,7 +4,7 @@
 - - -
 
 <h2 align="center">GitHub Statistics
-</h2><img src="https://github.com/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats"> <img src="https://github.com/GitHub-Stats-Card/blob/output/generated/languages.svg" alt="Languages">
+</h2><img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats"><img src="https://github.com/divyanshakya966/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="Languages">
 
 - - -
 
