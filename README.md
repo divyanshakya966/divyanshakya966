@@ -47,21 +47,6 @@ Always open to learning, collaborating, and contributing to real-world projects.
 
 - - -
 
-<h2 align="center">GSSoC'26 Badges</h2>
-
-<h3 align="center">Rare</h3>
-<p align="center">
-  <img src="GSSoC-2026-Badges\gssoc-badge-power_contributor.png" width="100" alt="power_contributor">
-</p>
-
-<h3 align="center">Uncommon</h3>
-<p align="center">
-  <img src="GSSoC-2026-Badges\gssoc-badge-rising_star.png" width="100" alt="rising_star">
-  <img src="GSSoC-2026-Badges\gssoc-badge-bounty_master.png" width="100" alt="badge-bounty_master">
-</p>
-
-- - -
-
 <h2 align="center">Connect With Me</h2>
 
 Feel free to reach out if you’d like to **connect, collaborate, or brainstorm** ideas around:
@@ -74,3 +59,22 @@ Feel free to reach out if you’d like to **connect, collaborate, or brainstorm*
 - - -
 
 If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
+
+- - -
+
+<h2 align="center">GSSoC'26 Achievements</h2>
+
+<p align="center">
+<img src="GSSoC-2026-Badges/gssoc-badge-power_contributor.png"
+width="150"
+alt="power_contributor"
+title="Power Contributor (Rare)" />
+<img src="GSSoC-2026-Badges/gssoc-badge-rising_star.png"
+width="150"
+alt="rising_star"
+title="Rising Star (Uncommon)" />
+<img src="GSSoC-2026-Badges/gssoc-badge-bounty_master.png"
+width="150"
+alt="badge-bounty_master"
+title="Bounty Master (Uncommon)" />
+</p>
