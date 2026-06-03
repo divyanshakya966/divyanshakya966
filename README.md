@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/divyanshakya966"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&amp;logo=github" alt="GitHub"></a>
-<a href="https://gohack.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a>
+<a href="https://divyansh.dev.gohack.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/divyanshakya966"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&amp;logo=Linkedin" alt="LinkedIn"></a>
 <a href="https://hashnode.com/@divyanshakya966"><img src="https://img.shields.io/badge/Hashnode-Follow-royalblue?style=flat&amp;logo=Hashnode" alt="Hashnode"></a>
 <a href="https://tryhackme.com/p/divyanshakya966"><img src="https://img.shields.io/badge/TryHackMe-Follow-crimson?style=flat&amp;logo=TryHackMe" alt="TryHackMe"></a>
