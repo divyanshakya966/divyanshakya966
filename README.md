@@ -58,10 +58,6 @@ Feel free to reach out if you’d like to **connect, collaborate, or brainstorm*
 
 - - -
 
-If you like my work or want to follow my journey, consider dropping a **star** on the repos you find interesting!
-
-- - -
-
 <h2 align="center">GSSoC'26 Achievements</h2>
 
 <p align="center">
@@ -78,3 +74,8 @@ width="150"
 alt="badge-bounty_master"
 title="Bounty Master (Uncommon)" />
 </p>
+
+- - -
+
+<p align="center">If you like my work or want to follow my journey, consider dropping a ⭐ on the repos you find interesting!</p>
+
